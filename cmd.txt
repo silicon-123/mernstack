@@ -7,7 +7,7 @@ git branch -M main -- create a main branch
 
 git branch -- to show all the branches
 git branch <branch Name> -- to add a new branch 
-git swicth <branch Name> -- to switch between branches
+git switch <branch Name> -- to switch between branches
 
 
 git add .   -- this will add the changed files to the staging area
